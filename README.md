@@ -1,1 +1,3 @@
-# 2026-02-KIT-COC-GS-071
+Title: Deep GRU Network for Automated ECG Signal Classification
+
+Domain: Deep learning,GRU network,ECG signal 
